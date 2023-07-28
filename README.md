@@ -1,5 +1,4 @@
 # apple_screening
 
-Run following commands in CMD under Apple folder.
-"mvn clean"
-"mvn test" 
+Run following commands in CMD under Project folder.
+"mvn clean install"
